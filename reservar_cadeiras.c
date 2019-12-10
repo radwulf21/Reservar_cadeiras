@@ -12,7 +12,7 @@
 	-Algoritmo para reserva de uma fileira de cadeiras do cinema.
 */
 
-void umdez( int *op ); //Função com passagem por referência para que o valor da variável 'op' seja alterado na main
+void umdez( int *op );  //Função com passagem por referência para que o valor da variável 'op' seja alterado na main
 
 void umdez( int *op )
 {
